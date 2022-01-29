@@ -1,8 +1,6 @@
 ### Olá, Bryan Fernandes aqui 👋🏾!!
 *📚 Estudando JS e React
 
-*📩contate-me no email 👉🏾 bryanfernandes8@gmail.com
-
 <div align="center">
   <a href="https://github.com/bammido">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bammido&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
