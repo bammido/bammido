@@ -1,7 +1,7 @@
 # Olá, Bryan Fernandes aqui 👋🏾!!
 *📚 Estudando JS e React
 
-** Desenvolvedor FullStack **
+*Desenvolvedor FullStack*
 
 ## Habilidades:
 * HTML
