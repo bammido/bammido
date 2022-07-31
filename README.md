@@ -1,5 +1,26 @@
-### Olá, Bryan Fernandes aqui 👋🏾!!
+# Olá, Bryan Fernandes aqui 👋🏾!!
 *📚 Estudando JS e React
+
+## Habilidades:
+* HTML
+* CSS
+* Javascript
+* React.JS
+* Styled-Components 
+* React Hooks
+* REST
+* Restful
+* HTTP
+* Jest
+* Node.JS
+* Knex
+* Typescript
+* MySQL
+* AWS
+* SQL
+* Github
+* Firebase 
+* Testes unitários
 
 <div align="center">
   <a href="https://github.com/bammido">
