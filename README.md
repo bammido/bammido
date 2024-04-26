@@ -7,6 +7,9 @@
 * CSS
 * Javascript
 * React.JS
+* Next
+* SQL
+* Tailwind
 * Styled-Components 
 * React Hooks
 * REST
